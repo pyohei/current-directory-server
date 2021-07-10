@@ -23,3 +23,7 @@ After move `main` file in your directory, you run script the blow command.
 ```
 ./main
 ```
+
+## LICENSE
+
+MIT
